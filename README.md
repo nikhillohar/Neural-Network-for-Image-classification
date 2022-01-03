@@ -1,4 +1,4 @@
 # Neural-Network-for-Image-classification
-This project was part of Hackathon
-Created a neural network to classify images.
-The network should be created only by using Numpy.
+This project was part of Hult Hackathon 2021.
+We created a neural network in Python to classify images.
+The condition was to code the network only by using Numpy.
